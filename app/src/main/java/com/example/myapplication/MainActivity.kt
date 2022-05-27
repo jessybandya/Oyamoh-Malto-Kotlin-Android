@@ -39,15 +39,5 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
-
-//                btn.setOnClickListener {
-//
-//                        var intent = Intent(applicationContext,SecondActivity::class.java)
-//                        intent.putExtra("URL", url)
-//                        intent.putExtra("EMAIL", email)
-//                        intent.putExtra("MESSAGE", message)
-//                        startActivity(intent)
-//
-//        }
-    }
+        }
 }
